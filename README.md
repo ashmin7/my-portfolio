@@ -1,7 +1,8 @@
 # My Digital Portfolio — Week 2 Prototype
 
-**Vercel:** https://<your-app>.vercel.app  
-**Security Plan:** https://<your-app>.vercel.app/security-plan
+Vercel: https://my-portfolio-nmef-h68zk3im6-ashmin7s-projects.vercel.app
+Security Plan: https://my-portfolio-nmef-h68zk3im6-ashmin7s-projects.vercel.app/security-plan
+
 
 ## LMS Curriculum References (Used This Week)
 - Create GitHub Account – <URL>
